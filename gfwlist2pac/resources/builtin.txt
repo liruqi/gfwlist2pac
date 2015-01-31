@@ -1,8 +1,13 @@
-||google.com
-||google.co.jp
-||google.co.hk
+||archeage.com
 ||bbc.co.uk
+||github.com
+||google-analytics.com
+||google.cn
+||google.co.hk
+||google.co.jp
+||google.com
 ||googleapis.com
 ||googlesyndication.com
-||github.com
+||ndoors.com
 ||wikipedia.org
+||xlgames.com
